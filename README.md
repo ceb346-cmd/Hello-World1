@@ -2,5 +2,6 @@
 This this the work for Skills Lab 6: Version Control
 
 Members:
-Cameron Boyce
-Aurora Croyle
+Cameron Boyce,
+Aurora Croyle,
+Srihita Kandula
